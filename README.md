@@ -1,0 +1,1 @@
+Java‑JUnitAPI is a lightweight Java library that streamlines JUnit-based testing. It provides clean utilities for assertions, test setup, parameterized tests, and reusable test helpers, making it easier to write consistent, maintainable, and efficient automated tests in Java.
